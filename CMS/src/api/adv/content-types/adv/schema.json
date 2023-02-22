@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "advs",
+  "info": {
+    "singularName": "adv",
+    "pluralName": "advs",
+    "displayName": "adv",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "adv_url": {
+      "type": "string"
+    }
+  }
+}
