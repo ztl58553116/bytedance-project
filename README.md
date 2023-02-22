@@ -1,1 +1,2 @@
-# bytedance-project
+这是基于SSR的仿掘金站点的后端CMS项目
+请进入文件夹后使用yarn develop命令打开后端localhost:1337端口
